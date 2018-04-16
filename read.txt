@@ -5,3 +5,5 @@
 03.xxxxxx
 
 xxxxxx
+
+f1 read.txt
