@@ -6,10 +6,9 @@
 
 xxxxxx
 
-<<<<<<< HEAD
 04.测试
 
 06.主分支对read.txt进行修改
-=======
+
 f1 read.txt
->>>>>>> f1
+
